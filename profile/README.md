@@ -16,6 +16,10 @@ The canonical company record is [InflectAI](https://www.inflect-ai.com). GitHub 
 - [Field Notes](https://www.inflect-ai.com/notes)
 - [What is Meaning Manifold Dynamics?](https://www.inflect-ai.com/what-is-meaning-manifold-dynamics)
 
+## Recent public note
+
+- [Which Rules Matter Now?](https://www.inflect-ai.com/notes/which-rules-matter-now) is an InflectAI founder note accompanying Thomson D. Nguy's arXiv preprint, [*Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts*](https://arxiv.org/abs/2608.30757). It describes routing potentially relevant policy regimes to authoritative review before adjudication; it does not make a legal, compliance, or enforcement determination.
+
 ## How the public record fits together
 
 - InflectAI is the parent-company and venture-studio record.
