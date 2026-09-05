@@ -18,6 +18,7 @@ The canonical company record is [InflectAI](https://www.inflect-ai.com). GitHub 
 
 ## Recent public note
 
+- [What It Means to Be an Agentic Solo Founder](https://www.inflect-ai.com/notes/what-it-means-to-be-an-agentic-solo-founder) is a founder field note on rebuilding an internal research prototype, coordinating an agent fleet, and establishing the organizational structures needed to find and preserve a construction error. The same cleared note is also available on [Vector Manifold Analytics](https://vectormanifold.com/notes/what-it-means-to-be-an-agentic-solo-founder) and [Reflex Notes](https://thomsonnguy.substack.com/p/what-it-means-to-be-an-agentic-solo).
 - [Which Rules Matter Now?](https://www.inflect-ai.com/notes/which-rules-matter-now) is an InflectAI founder note accompanying Thomson D. Nguy's arXiv preprint, [*Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts*](https://arxiv.org/abs/2608.30757). It describes routing potentially relevant policy regimes to authoritative review before adjudication; it does not make a legal, compliance, or enforcement determination.
 
 ## How the public record fits together
