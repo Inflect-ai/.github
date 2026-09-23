@@ -14,12 +14,14 @@ The canonical company record is [InflectAI](https://www.inflect-ai.com). GitHub 
 - [InflectAI](https://www.inflect-ai.com)
 - [What is InflectAI?](https://www.inflect-ai.com/what-is-inflectai)
 - [Field Notes](https://www.inflect-ai.com/notes)
+- [Public Notes](https://github.com/Inflect-ai/inflectai-public-notes) - selected Markdown mirrors of released InflectAI notes. The website remains canonical.
 - [What is Meaning Manifold Dynamics?](https://www.inflect-ai.com/what-is-meaning-manifold-dynamics)
 
 ## Recent public note
 
 - [What It Means to Be an Agentic Solo Founder](https://www.inflect-ai.com/notes/what-it-means-to-be-an-agentic-solo-founder) is a founder field note on rebuilding an internal research prototype, coordinating an agent fleet, and establishing the organizational structures needed to find and preserve a construction error. The same cleared note is also available on [Vector Manifold Analytics](https://vectormanifold.com/notes/what-it-means-to-be-an-agentic-solo-founder) and [Reflex Notes](https://thomsonnguy.substack.com/p/what-it-means-to-be-an-agentic-solo).
 - [Which Rules Matter Now?](https://www.inflect-ai.com/notes/which-rules-matter-now) is an InflectAI founder note accompanying Thomson D. Nguy's arXiv preprint, [*Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts*](https://arxiv.org/abs/2608.30757). It describes routing potentially relevant policy regimes to authoritative review before adjudication; it does not make a legal, compliance, or enforcement determination.
+- [Should You Be Distilling Your Own Model?](https://www.inflect-ai.com/notes/should-you-be-distilling-your-own-model) is a founder note on a proposed model-distillation decision for a 6.5M-semantic-atom extraction workload. It does not claim general model equivalence, a deployed student model, or realized cost invoices.
 
 ## How the public record fits together
 
